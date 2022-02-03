@@ -1,6 +1,6 @@
 ﻿{
-    "name": "vless",
-    "description": "vless",
+    "name": "meet",
+    "description": "meet",
     "keywords": ["VLESS"],
     "env": {
         "ID": {
